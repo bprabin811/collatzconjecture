@@ -1,2 +1,2 @@
 # bprabin811
-bprabin811.github.io/collatzconjecture
+https://prabin811.github.io/collatzconjecture
